@@ -38,7 +38,7 @@
 
 ![image](https://github.com/smw1875/-_-/assets/67328010/62aa369c-3087-47ce-9f9a-5e9d9f91aac1)
 
-1. 동작기능
+- 동작기능
 
 A. 사용자와 모니터 사이 거리측정 기능
 
